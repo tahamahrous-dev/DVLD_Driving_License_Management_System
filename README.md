@@ -121,8 +121,6 @@ This modular breakdown reflects real enterprise system design.
 
 ---
 
-# 🖼 Screenshots
-
 ## 🔐 Login Screen
 
 ![Login](Screenshots/login.JPG)
