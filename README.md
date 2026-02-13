@@ -125,31 +125,31 @@ This modular breakdown reflects real enterprise system design.
 
 ## 🔐 Login Screen
 
-![Login](Screenshots/login.png)
+![Login](Screenshots/login.JPG)
 
 ## 🏠 Main Dashboard
 
-![Dashboard](Screenshots/dashboard.png)
+![Dashboard](Screenshots/dashboard.JPG)
 
 ## 👤 People Management
 
-![People](Screenshots/manger-people.png)
+![People](Screenshots/manger-people.JPG)
 
 ## 👤 Drivers Management
 
-![Drivers](Screenshots/drivers.png)
+![Drivers](Screenshots/drivers.JPG)
 
 ## 🧪 Test Scheduling
 
-![Tests](Screenshots/tests.png)
+![Tests](Screenshots/tests.JPG)
 
 ## 📜 License History
 
-![LicenseHistory](Screenshots/license-history.png)
+![LicenseHistory](Screenshots/license-history.JPG)
 
 ## 👥 Users Management
 
-![Users](Screenshots/manage-users.png)
+![Users](Screenshots/manage-users.JPG)
 
 ---
 
